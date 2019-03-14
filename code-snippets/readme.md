@@ -38,6 +38,40 @@
     }
 }
 
+
+{
+    "NPM JSON Template": {
+        "prefix": "njt",
+        "body": [
+            "{",
+            "   \"zh-Hans\"",
+            "   \"name\": \"$1\"",
+            "   \"description\": \"$2\"",
+            "   \"author\": \"xgqfrms\"",
+            "   \"version\": \"1.1.1\"",
+            "   \"license\": \"MIT\"",
+            "   \"private\": true",
+            "   \"scripts\": {",
+            "       \"dev\": \"npm run start\"",
+            "       \"app\": \"npm run build\"",
+            "       \"rmrf\": \"rimraf dist/**/*\"",
+            "       \"map\": \"rimraf dist/**/*.map\"",
+            "   },",
+            "   \"bin\": {",
+            "       \"dev\": \"dev\"",
+            "       \"app\": \"app\"",
+            "   },",
+            "   \"keywords\": [",
+            "       \"Node.js\",",
+            "       \"NPM\",",
+            "       \"JS\",",
+            "   ],",
+            "",
+            "}"
+        ],
+        "description": "NPM JSON Template & code snippets!"
+    }
+}
 ```
 
 
