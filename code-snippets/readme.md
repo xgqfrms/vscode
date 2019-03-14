@@ -9,28 +9,27 @@
         "prefix": "njt",
         "body": [
             "{",
-            "   \"zh-Hans\"",
-            "   \"name\": \"npm node project\"",
-            "   \"description\": \"an open source project created by xgqfrms\"",
-            "   \"author\": \"xgqfrms\"",
-            "   \"version\": \"1.1.1\"",
-            "   \"license\": \"MIT\"",
-            "   \"private\": true",
+            "   \"name\": \"$1npm node project\",",
+            "   \"description\": \"$2an open source project created by xgqfrms\",",
+            "   \"author\": \"xgqfrms\",",
+            "   \"version\": \"1.1.1\",",
+            "   \"license\": \"MIT\",",
+            "   \"private\": true,",
             "   \"scripts\": {",
-            "       \"dev\": \"npm run start\"",
-            "       \"app\": \"npm run build\"",
-            "       \"rmrf\": \"rimraf dist/**/*\"",
+            "       \"dev\": \"npm run start\",",
+            "       \"app\": \"npm run build\",",
+            "       \"rmrf\": \"rimraf dist/**/*\",",
             "       \"map\": \"rimraf dist/**/*.map\"",
             "   },",
             "   \"bin\": {",
-            "       \"dev\": \"dev\"",
+            "       \"dev\": \"dev\",",
             "       \"app\": \"app\"",
             "   },",
             "   \"keywords\": [",
             "       \"Node.js\",",
             "       \"NPM\",",
-            "       \"JS\",",
-            "   ],",
+            "       \"JS\"",
+            "   ]",
             "",
             "}"
         ],
@@ -38,40 +37,6 @@
     }
 }
 
-
-{
-    "NPM JSON Template": {
-        "prefix": "njt",
-        "body": [
-            "{",
-            "   \"zh-Hans\"",
-            "   \"name\": \"$1\"",
-            "   \"description\": \"$2\"",
-            "   \"author\": \"xgqfrms\"",
-            "   \"version\": \"1.1.1\"",
-            "   \"license\": \"MIT\"",
-            "   \"private\": true",
-            "   \"scripts\": {",
-            "       \"dev\": \"npm run start\"",
-            "       \"app\": \"npm run build\"",
-            "       \"rmrf\": \"rimraf dist/**/*\"",
-            "       \"map\": \"rimraf dist/**/*.map\"",
-            "   },",
-            "   \"bin\": {",
-            "       \"dev\": \"dev\"",
-            "       \"app\": \"app\"",
-            "   },",
-            "   \"keywords\": [",
-            "       \"Node.js\",",
-            "       \"NPM\",",
-            "       \"JS\",",
-            "   ],",
-            "",
-            "}"
-        ],
-        "description": "NPM JSON Template & code snippets!"
-    }
-}
 ```
 
 
