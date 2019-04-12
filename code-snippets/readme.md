@@ -133,3 +133,129 @@
 }
 
 ```
+
+
+
+# json
+
+```json
+
+
+{
+    "NPM JSON Template": {
+        "prefix": "njt",
+        "body": [
+            "{",
+            "   \"name\": \"$1npm node project\",",
+            "   \"description\": \"$2an open source project created by xgqfrms\",",
+            "   \"author\": \"xgqfrms\",",
+            "   \"version\": \"1.1.1\",",
+            "   \"license\": \"MIT\",",
+            "   \"private\": true,",
+            "   \"scripts\": {",
+            "       \"dev\": \"npm run start\",",
+            "       \"app\": \"npm run build\",",
+            "       \"rmrf\": \"rimraf dist/**/*\",",
+            "       \"map\": \"rimraf dist/**/*.map\"",
+            "   },",
+            "   \"bin\": {",
+            "       \"dev\": \"dev\",",
+            "       \"app\": \"app\"",
+            "   },",
+            "   \"keywords\": [",
+            "       \"Node.js\",",
+            "       \"NPM\",",
+            "       \"JS\"",
+            "   ]",
+            "",
+            "}"
+        ],
+        "description": "NPM JSON Template & code snippets!"
+    }
+}
+
+```
+
+# json5
+
+> JSON5
+
+```json
+
+{
+    "JSON5 Template": {
+        "prefix": "json5",
+        "body": [
+            "{",
+            "   \"name\": \"$1npm node project\",",
+            "   \"description\": \"$2an open source project created by xgqfrms\",",
+            "   \"author\": \"xgqfrms\",",
+            "   \"version\": \"1.1.1\",",
+            "   \"license\": \"MIT\",",
+            "   \"private\": true,",
+            "   \"scripts\": {",
+            "       \"dev\": \"npm run start\",",
+            "       \"app\": \"npm run build\",",
+            "       \"rmrf\": \"rimraf dist/**/*\",",
+            "       \"map\": \"rimraf dist/**/*.map\"",
+            "   },",
+            "   \"bin\": {",
+            "       \"dev\": \"dev\",",
+            "       \"app\": \"app\"",
+            "   },",
+            "   \"keywords\": [",
+            "       \"Node.js\",",
+            "       \"NPM\",",
+            "       \"JS\"",
+            "   ]",
+            "",
+            "}"
+        ],
+        "description": "JSON5 Template & code snippets!"
+    }
+}
+
+```
+
+# jsonc
+
+> JSON with Comments 
+
+```json
+
+{
+    "JSON with Comments Template": {
+        "prefix": "jsonc",
+        "body": [
+            "{",
+            "   \"name\": \"$1npm node project\",",
+            "   \"description\": \"$2an open source project created by xgqfrms\",",
+            "   \"author\": \"xgqfrms\",",
+            "   \"version\": \"1.1.1\",",
+            "   \"license\": \"MIT\",",
+            "   \"private\": true,",
+            "   \"scripts\": {",
+            "       \"dev\": \"npm run start\",",
+            "       \"app\": \"npm run build\",",
+            "       \"rmrf\": \"rimraf dist/**/*\",",
+            "       \"map\": \"rimraf dist/**/*.map\"",
+            "   },",
+            "   \"bin\": {",
+            "       \"dev\": \"dev\",",
+            "       \"app\": \"app\"",
+            "   },",
+            "   \"keywords\": [",
+            "       \"Node.js\",",
+            "       \"NPM\",",
+            "       \"JS\"",
+            "   ]",
+            "",
+            "}"
+        ],
+        "description": "JSON with Comments Template & code snippets!"
+    }
+}
+
+
+```
+
