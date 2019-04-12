@@ -42,3 +42,8 @@ https://github.com/xgqfrms/vscode
 }
 
 ```
+
+# vscode & code snippets
+
+https://www.cnblogs.com/xgqfrms/p/9226993.html
+
