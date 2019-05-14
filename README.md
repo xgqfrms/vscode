@@ -42,6 +42,51 @@ https://github.com/xgqfrms/vscode
 }
 
 ```
+> ts6r
+
+```json
+
+{
+    "TypeScript ES6 React Template": {
+        "prefix": "ts6r",
+        "body": [
+            "\"use strict\";",
+            "",
+            "/**",
+            " * ",
+            " * @author xgqfrms",
+            " * @license MIT",
+            " * @copyright xgqfrms",
+            " * @created 2019.0$1.0$2",
+            " * ",
+            " * @description $3",
+            " * @augments ",
+            " * @example ",
+            " * @link $4",
+            " * ",
+            " */",
+            "",
+            "const $3Generator = ($5datas = [], debug = false) => {",
+            "    let result = ``;",
+            "    // do something...",
+            "    return $6result;",
+            "};",
+            "",
+            "",
+            "",
+            "export default $3;",
+            "",
+            "export {",
+            "    $3,",
+            "};",
+            ""
+        ],
+        "description": "TypeScript ES6 React Template & code snippets!"
+    }
+}
+
+
+```
 
 # vscode & code snippets
 
