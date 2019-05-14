@@ -12,7 +12,8 @@
             " * ",
             " * @description $2",
             " * @augments $3",
-            " * @example $4",
+            " * @example ",
+            " * @link $4",
             " * ",
             " */",
             "",
@@ -29,7 +30,7 @@
             "export {",
             "    $2,",
             "};",
-            "",
+            ""
         ],
         "description": "JavaScript ES6 React Template & code snippets!"
     }
