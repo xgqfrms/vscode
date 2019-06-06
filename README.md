@@ -2,6 +2,12 @@
 
 https://github.com/xgqfrms/vscode
 
+## VS Code
+
+Shift + Alt + A === Block Commnets
+
+Ctrl + / === line Commnets
+
 
 ```json
 {
