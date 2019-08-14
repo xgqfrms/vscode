@@ -8,6 +8,49 @@ Shift + Alt + A === Block Commnets
 
 Ctrl + / === line Commnets
 
+```json
+{
+    "JavaScript ES6 React Template": {
+        "prefix": "js6r",
+        "body": [
+            "\"use strict\";",
+            "",
+            "/**",
+            " * ",
+            " * @author xgqfrms",
+            " * @license MIT",
+            " * @copyright xgqfrms",
+            " * @created 2019-08-$1",
+            " * ",
+            " * @description $2",
+            " * @augments $3",
+            " * @example $4",
+            " * @link $5",
+            " * ",
+            " */",
+            "",
+            "let log = console.log;",
+            "",
+            "const $2Generator = ($5datas = [], debug = false) => {",
+            "    let result = ``;",
+            "    // do something...",
+            "    return $7result;",
+            "};",
+            "",
+            "",
+            "",
+            "export default $2;",
+            "",
+            "export {",
+            "    $2,",
+            "};",
+            "",
+        ],
+        "description": "JavaScript ES6 React Template & code snippets!"
+    }
+}
+
+```
 
 ```json
 {
