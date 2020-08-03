@@ -139,7 +139,93 @@ Ctrl + / === line Commnets
 
 ```
 
-# vscode & code snippets
+## vscode & code snippets
+
+> p3y
+
+```json
+{
+  "Python3 Template": {
+    "prefix": "py3",
+    "body": [
+      "# coding: utf8",
+      "",
+      "__author__ = 'xgqfrms'",
+      "",
+      "\"\"\"",
+      "",
+      "/**",
+      " * ",
+      " * @author xgqfrms",
+      " * @license MIT",
+      " * @copyright xgqfrms",
+      " * @created 2020-01-0$1",
+      " * ",
+      " * @description $2",
+      " * @augments $3",
+      " * @example $4",
+      " * @link $5",
+      " * ",
+      " */",
+      "",
+      "\"\"\""
+    ],
+    "description": "Python3 Template & code snippets!"
+  }
+}
+
+```
+
+> js6r
+
+```json
+
+{
+  "JavaScript ES6 React Template": {
+    "prefix": "js6r",
+    "body": [
+      "\"use strict\";",
+      "",
+      "/**",
+      " * ",
+      " * @author xgqfrms",
+      " * @license MIT",
+      " * @copyright xgqfrms",
+      " * @created 2020-08-0$1",
+      " * @modified ",
+      " * ",
+      " * @description $2",
+      " * @difficulty Easy Medium Hard",
+      " * @complexity O(n)",
+      " * @augments ",
+      " * @example ",
+      " * @link ",
+      " * @solutions ",
+      " * ",
+      " */",
+      "",
+      "const log = console.log;",
+      "",
+      "// Generator",
+      "const $3 = ($5datas = [], debug = false) => {",
+      "  let result = ``;",
+      "  // do something...",
+      "  return $7result;",
+      "};",
+      "",
+      "",
+      "",
+      "export default $3;",
+      "",
+      "export {",
+      "  $3,",
+      "};",
+      "",
+    ],
+    "description": "JavaScript ES6 React Template & code snippets!"
+  }
+}
+```
 
 https://www.cnblogs.com/xgqfrms/p/9226993.html
 
