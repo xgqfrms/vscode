@@ -1,0 +1,29 @@
+{
+  "Python3 Template": {
+    "prefix": "py3",
+    "body": [
+      "# coding: utf8",
+      "",
+      "__author__ = 'xgqfrms'",
+      "",
+      "\"\"\"",
+      "",
+      "/**",
+      " * ",
+      " * @author xgqfrms",
+      " * @license MIT",
+      " * @copyright xgqfrms",
+      " * @created 2020-01-0$1",
+      " * ",
+      " * @description $2",
+      " * @augments $3",
+      " * @example $4",
+      " * @link $5",
+      " * ",
+      " */",
+      "",
+      "\"\"\""
+    ],
+    "description": "Python3 Template & code snippets!"
+  }
+}
