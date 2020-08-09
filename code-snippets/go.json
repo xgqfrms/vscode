@@ -1,0 +1,43 @@
+{
+  "Go Template": {
+    "prefix": "got",
+    "body": [
+      "/**",
+      " * ",
+      " * @author xgqfrms",
+      " * @license MIT",
+      " * @copyright xgqfrms",
+      " * @created 2020-01-0$1",
+      " * ",
+      " * @description $2",
+      " * @augments $3",
+      " * @example $4",
+      " * @link $5",
+      " * ",
+      " */",
+      "",
+      "package main",
+      "",
+      "// import \"fmt\"",
+      "// import (\"fmt\")",
+      "import (",
+      "  \"fmt\"",
+      "  \"strings\"",
+      "  \"time\"",
+      "  \"math/rand\"",
+      "  \"testing\"",
+      "  \"bytes\"",
+      "  \"encoding/base64\"",
+      "  \"image\"",
+      "  \"image/png\"",
+      ")",
+      "",
+      "func main() {",
+      "  fmt.Println(\"Hello, Go\")",
+      "}",
+      "",
+      ""
+    ],
+    "description": "Go Template & code snippets!"
+  }
+}
