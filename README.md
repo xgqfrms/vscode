@@ -8,6 +8,8 @@ Shift + Alt + A === Block Commnets
 
 Ctrl + / === line Commnets
 
+## js6r
+
 ```json
 {
     "JavaScript ES6 React Template": {
@@ -54,46 +56,49 @@ Ctrl + / === line Commnets
 
 ```json
 {
-    "JavaScript ES6 React Template": {
-        "prefix": "js6r",
-        "body": [
-            "\"use strict\";",
-            "",
-            "/**",
-            " * ",
-            " * @author xgqfrms",
-            " * @license MIT",
-            " * @copyright xgqfrms",",
-            " * @created 2019-0$1-$1",
-            " * ",
-            " * @description $2",
-            " * @augments $3",
-            " * @example ",
-            " * @link $4",
-            " * ",
-            " */",
-            "",
-            "const $2Generator = ($5datas = [], debug = false) => {",
-            "    let result = ``;",
-            "    // do something...",
-            "    return $7result;",
-            "};",
-            "",
-            "",
-            "",
-            "export default $2;",
-            "",
-            "export {",
-            "    $2,",
-            "};",
-            "",
-        ],
-        "description": "JavaScript ES6 React Template & code snippets!"
-    }
+  "JavaScript ES6 React Template": {
+    "prefix": "js6r",
+    "body": [
+      "\"use strict\";",
+      "",
+      "/**",
+      " * ",
+      " * @author xgqfrms",
+      " * @license MIT",
+      " * @copyright xgqfrms",
+      " * @created 2020-01-0$1",
+      " * ",
+      " * @description $2",
+      " * @augments $3",
+      " * @example $4",
+      " * @link $5",
+      " * ",
+      " */",
+      "",
+      "const log = console.log;",
+      "",
+      "const $2Generator = ($5datas = [], debug = false) => {",
+      "    let result = ``;",
+      "    // do something...",
+      "    return $7result;",
+      "};",
+      "",
+      "",
+      "",
+      "export default $2;",
+      "",
+      "export {",
+      "    $2,",
+      "};",
+      ""
+    ],
+    "description": "JavaScript ES6 React Template & code snippets!"
+  }
 }
 
+
 ```
-> ts6r
+## ts6r
 
 ```json
 
@@ -139,9 +144,7 @@ Ctrl + / === line Commnets
 
 ```
 
-## vscode & code snippets
-
-> p3y
+## p3y
 
 ```json
 {
@@ -176,7 +179,7 @@ Ctrl + / === line Commnets
 
 ```
 
-> js6r
+## js6r
 
 ```json
 
@@ -226,6 +229,57 @@ Ctrl + / === line Commnets
   }
 }
 ```
+
+## got
+
+```json
+{
+  "Go Template": {
+    "prefix": "got",
+    "body": [
+      "/**",
+      " * ",
+      " * @author xgqfrms",
+      " * @license MIT",
+      " * @copyright xgqfrms",
+      " * @created 2020-01-0$1",
+      " * ",
+      " * @description $2",
+      " * @augments $3",
+      " * @example $4",
+      " * @link $5",
+      " * ",
+      " */",
+      "",
+      "package main",
+      "",
+      "// import \"fmt\"",
+      "// import (\"fmt\")",
+      "import (",
+      "  \"fmt\"",
+      "  \"strings\"",
+      "  \"time\"",
+      "  \"math/rand\"",
+      "  \"testing\"",
+      "  \"bytes\"",
+      "  \"encoding/base64\"",
+      "  \"image\"",
+      "  \"image/png\"",
+      ")",
+      "",
+      "func main() {",
+      "  fmt.Println(\"Hello, Go\")",
+      "}",
+      "",
+      ""
+    ],
+    "description": "Go Template & code snippets!"
+  }
+}
+
+```
+
+## vscode & code snippets
 
 https://www.cnblogs.com/xgqfrms/p/9226993.html
 
