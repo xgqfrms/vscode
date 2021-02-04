@@ -1,6 +1,6 @@
 # vscode
 
-https://github.com/xgqfrms/vscode
+[https://github.com/xgqfrms/vscode](https://github.com/xgqfrms/vscode)
 
 ## VS Code
 
@@ -31,7 +31,7 @@ Ctrl + / === line Commnets
             " * ",
             " */",
             "",
-            "let log = console.log;",
+            "const log = console.log;",
             "",
             "const $2Generator = ($5datas = [], debug = false) => {",
             "    let result = ``;",
@@ -179,7 +179,7 @@ Ctrl + / === line Commnets
 
 ```
 
-## js6r
+## js6r （new version）
 
 ```json
 
@@ -282,4 +282,11 @@ Ctrl + / === line Commnets
 ## vscode & code snippets
 
 https://www.cnblogs.com/xgqfrms/p/9226993.html
+
+
+
+
+
+
+
 
