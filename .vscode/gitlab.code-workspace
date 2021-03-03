@@ -1,0 +1,25 @@
+
+{
+    "name": "gitlab",
+    "folders": [
+        {
+            "path": "/Users/xgqfrms/Documents/gitlab-projects"
+        }
+    ],
+    "settings": {
+        "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+        "files.associations": {
+            "*.jsx": "javascriptreact",
+            "*.js": "javascriptreact"
+        },
+        "docthis.includeTypes": true,
+        "docthis.includeMemberOfOnClassMembers": true,
+        "docthis.includeMemberOfOnInterfaceMembers": true,
+        "docthis.includeDescriptionTag": true,
+        "docthis.enableHungarianNotationEvaluation": true,
+        "docthis.inferTypesFromNames": true,
+        "docthis.includeAuthorTag": true,
+        "docthis.authorName": "ericxia",
+        "html.format.enable": false
+    }
+}
