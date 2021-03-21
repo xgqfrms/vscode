@@ -1,0 +1,26 @@
+{
+  "Bash Shell Template": {
+    "prefix": "sh",
+    "body": [
+      "#!/usr/bin/env bash",
+      "",
+      "# ",
+      "# @author xgqfrms",
+      "# @license MIT",
+      "# @copyright xgqfrms",
+      "# @created 2020-01-0$1",
+      "# ",
+      "# @description $2",
+      "# @augments $3",
+      "# @example $4",
+      "# @link $5",
+      "# ",
+      "",
+      "echo \"^-v-^ running ...\"",
+      "",
+      "",
+      ""
+    ],
+    "description": "Bash Shell Template & code snippets!"
+  }
+}
