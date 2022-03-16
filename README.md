@@ -1,14 +1,18 @@
-# vscode
+# VSCode All In One
+
+[https://vscode.xgqfrms.xyz/](https://vscode.xgqfrms.xyz/)
 
 [https://github.com/xgqfrms/vscode](https://github.com/xgqfrms/vscode)
 
-## VS Code
+## VSCode (shortcuts)
 
 Shift + Alt + A === Block Commnets
 
 Ctrl + / === line Commnets
 
-## js6r
+## VSCode Code Snippets
+
+> js6r (with test cases)
 
 ```json
 {
@@ -86,6 +90,8 @@ Ctrl + / === line Commnets
 }
 ```
 
+> js6r
+
 ```json
 {
     "JavaScript ES6 React Template": {
@@ -129,6 +135,8 @@ Ctrl + / === line Commnets
 }
 
 ```
+
+> js6r
 
 ```json
 {
@@ -174,7 +182,8 @@ Ctrl + / === line Commnets
 
 
 ```
-## ts6r
+
+> ts6r
 
 ```json
 
@@ -220,7 +229,7 @@ Ctrl + / === line Commnets
 
 ```
 
-## p3y
+> p3y
 
 ```json
 {
@@ -255,7 +264,7 @@ Ctrl + / === line Commnets
 
 ```
 
-## js6r （new version）
+> js6r （new version）
 
 ```json
 
@@ -306,7 +315,7 @@ Ctrl + / === line Commnets
 }
 ```
 
-## got
+> got
 
 ```json
 {
@@ -355,9 +364,24 @@ Ctrl + / === line Commnets
 
 ```
 
-## vscode & code snippets
+<!-- [want more](https://github.com/xgqfrms/vscode/tree/master/code-snippets) -->
+
+<!-- [want more](./code-snippets/readme.md) -->
+
+[want more](./code-snippets#readme)
+
+<!-- https://github.com/xgqfrms/vscode/issues -->
+
+## refs
+
+> vscode & code snippets
 
 https://www.cnblogs.com/xgqfrms/p/9226993.html
+
+
+
+
+
 
 
 
