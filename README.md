@@ -12,6 +12,80 @@ Ctrl + / === line Commnets
 
 ## VSCode Code Snippets
 
+> js6r with dynamic test cases
+
+```json
+{
+  "JavaScript ES6 React Template": {
+    "prefix": "js6r",
+    "body": [
+      "\"use strict\";",
+      "",
+      "/**",
+      " * ",
+      " * @author xgqfrms",
+      " * @license MIT",
+      " * @copyright xgqfrms",
+      " * @created 2022-03-0$1",
+      " * @modified ",
+      " * ",
+      " * @description ",
+      " * @description ",
+      " * @difficulty Easy Medium Hard",
+      " * @complexity O(n)",
+      " * @time O(n)",
+      " * @augments ",
+      " * @example ",
+      " * @link https://leetcode.com/problems/$2/",
+      " * @link https://leetcode-cn.com/problems/$2/",
+      " * @solutions ",
+      " * ",
+      " * @best_solutions ",
+      " * ",
+      " */",
+      "",
+      "const log = console.log;",
+      "",
+      "// Generator",
+      "const $3 = ($5datas = [], debug = false) => {",
+      "  let result = ``;",
+      "  // do something...",
+      "  return $7result;",
+      "};",
+      "",
+      "",
+      "export default $3;",
+      "export {",
+      "  $3,",
+      "};",
+      "",
+      "/*",
+      "",
+      "",
+      "// 测试用例 test cases",
+      "const testCases = [",
+      "  {",
+      "    input: '4193 with words  ',",
+      "    result: 4193,",
+      "    desc: 'value equal to 4193',",
+      "  },",
+      "];",
+      "for (const [i, testCase] of testCases.entries()) {",
+      "  const result = $3(testCase.input);",
+      "  log(`test case ${i} result: `, result === testCase.result ? `✅ passed` : `❌ failed`, result);",
+      "  // log(`test case ${i} result:\n\t\t`, result === testCase.result ? `passed ✅` : `failed ❌`, result);",
+      "  // log(`test case ${i} =`, testCase);",
+      "}",
+      "",
+      "",
+      "*/",
+      "",
+    ],
+    "description": "JavaScript ES6 React Template & code snippets!"
+  }
+}
+```
+
 > js6r (with test cases)
 
 ```json
