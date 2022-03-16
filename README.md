@@ -448,6 +448,18 @@ Ctrl + / === line Commnets
 
 <!-- https://github.com/xgqfrms/vscode/issues -->
 
+
+## VSCode useful Extensions All In One 
+
+[VSCode useful Extensions All In One ](./plugins-extensions/readme.md)
+
+[VSCode useful Extensions All In One ](./plugins-extensions#readme)
+
+[VSCode useful Extensions All In One ](./plugins-extensions)
+
+
+https://github.com/xgqfrms/vscode/blob/master/
+
 ## refs
 
 > vscode & code snippets
