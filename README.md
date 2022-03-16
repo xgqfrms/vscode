@@ -69,7 +69,7 @@ Ctrl + / === line Commnets
       "  '   -42',",
       "  '12345657890 bigint',",
       "];",
-      "for (const [i, test] of tests) {",
+      "for (const [i, test] of tests.entries()) {",
       "  const result = $3(test);",
       "  if(typeof result === 'boolean') {",
       "    log(`test${i} =`, result ? `✅` : `❌`);",
