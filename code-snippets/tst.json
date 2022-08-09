@@ -58,7 +58,7 @@
       "for (const [i, testCase] of testCases.entries()) {",
       "  const result = $3(testCase.input);",
       "  log(`test case ${i} result: `, result === testCase.result ? `✅ passed` : `❌ failed`, result);",
-      "  // log(`test case ${i} result:\n\t\t`, result === testCase.result ? `passed ✅` : `failed ❌`, result);",
+      "  // log(`test case ${i} result: `, result === testCase.result ? `passed ✅` : `failed ❌`, result);",
       "  // log(`test case ${i} =`, testCase);",
       "}",
       "",
