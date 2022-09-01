@@ -22,6 +22,16 @@ Start typing or drop a file into the text area to get started.
 https://carbon.now.sh/
 
 
+## Error Lens
+
+https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+
+https://github.com/usernamehw/vscode-error-lens
+
+![image](https://user-images.githubusercontent.com/7291672/187972044-9430cb6c-8345-439d-8d33-7d8e7b71e9bc.png)
+
+
+
 > VSCode & useful Extensions All In One 
 
 https://www.cnblogs.com/xgqfrms/p/12404892.html
