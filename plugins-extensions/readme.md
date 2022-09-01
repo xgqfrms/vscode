@@ -31,6 +31,12 @@ https://github.com/usernamehw/vscode-error-lens
 ![image](https://user-images.githubusercontent.com/7291672/187972044-9430cb6c-8345-439d-8d33-7d8e7b71e9bc.png)
 
 
+https://marketplace.visualstudio.com/items?itemName=PhilHindle.errorlens
+
+https://github.com/phindle/error-lens
+
+![image](https://user-images.githubusercontent.com/7291672/187972287-93d57961-cd25-4269-a46f-f5ddc4059551.png)
+
 
 > VSCode & useful Extensions All In One 
 
