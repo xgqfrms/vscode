@@ -19,15 +19,15 @@
       "fn main () {",
       "  // print",
       "  print!(\"print 🦀\");",
-      "  print!(\"\n\");",
-      "  // println! === print! + \"\n\"",
+      "  print!(\"\\n\");",
+      "  // println! === print! + \"\\n\"",
       "  println!(\"println 🦀\");",
       "}",
       "",
       "/*",
       "",
       "*/",
-      "",
+      ""
     ],
     "description": "Rust Template & vscode code snippets!"
   }
