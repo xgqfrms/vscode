@@ -23,8 +23,7 @@
           "$4",
           "ON",
           "$5",
-          "ORDER",
-          "BY ASC/DESC",
+          "ORDER BY $6 ASC/DESC",
           "",
           ""
       ],
