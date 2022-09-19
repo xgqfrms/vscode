@@ -1,0 +1,33 @@
+{
+  "MySQL SQL Template": {
+      "prefix": "mst",
+      "body": [
+          "",
+          "/**",
+          " * ",
+          " * @author xgqfrms",
+          " * @license MIT",
+          " * @copyright xgqfrms",
+          " * @created 2022-09-1$1",
+          " * @modified ",
+          " * ",
+          " * @description ",
+          " * @augments ",
+          " * @example ",
+          " * @link ",
+          " * ",
+          " */",
+          "",
+          "select * from $2 where $3",
+          "INNER JOIN",
+          "$4",
+          "ON",
+          "$5",
+          "ORDER",
+          "BY ASC/DESC",
+          "",
+          ""
+      ],
+      "description": "MySQL SQL Template & code snippets!"
+  }
+}
