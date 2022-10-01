@@ -1,6 +1,8 @@
-# code-snippets
+# vscode code-snippets
 
-> npm & njt
+## NPM
+
+> njt
 
 ```json
 
@@ -39,6 +41,7 @@
 
 ```
 
+## JavaScript & React
 
 > js6r
 
@@ -80,6 +83,8 @@
     }
 }
 ```
+
+## HTML5
 
 > h5t
 
@@ -136,7 +141,7 @@
 
 
 
-# json
+## JSON
 
 ```json
 
@@ -176,7 +181,6 @@
 
 ```
 
-# json5
 
 > JSON5
 
@@ -217,7 +221,7 @@
 
 ```
 
-# jsonc
+## JSONC
 
 > JSON with Comments 
 
@@ -285,7 +289,7 @@
       " * @augments ",
       " * @example ",
       " * @link https://leetcode.com/problems/$2/",
-      " * @link https://leetcode-cn.com/problems/$2/",
+      " * @link https://leetcode.cn/problems/$2/",
       " * @solutions ",
       " * ",
       " * @best_solutions ",
@@ -364,7 +368,7 @@
       " * @augments ",
       " * @example ",
       " * @link https://leetcode.com/problems/$2/",
-      " * @link https://leetcode-cn.com/problems/$2/",
+      " * @link https://leetcode.cn/problems/$2/",
       " * @solutions ",
       " * ",
       " * @best_solutions ",
