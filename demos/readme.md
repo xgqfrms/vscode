@@ -22,7 +22,7 @@
  * @augments 
  * @example 
  * @link https://leetcode.com/problems/ts/
- * @link https://leetcode-cn.com/problems/ts/
+ * @link https://leetcode.cn/problems/ts/
  * @solutions 
  * 
  * @best_solutions 
