@@ -38,6 +38,22 @@ https://github.com/phindle/error-lens
 ![image](https://user-images.githubusercontent.com/7291672/187972287-93d57961-cd25-4269-a46f-f5ddc4059551.png)
 
 
+## Bookmarks
+
+Bookmarks Extension for Visual Studio Code
+
+<img width="436" alt="image" src="https://user-images.githubusercontent.com/7291672/195303145-fcec9ba0-f28a-441f-96ce-265c21799d01.png">
+
+<img width="595" alt="image" src="https://user-images.githubusercontent.com/7291672/195303382-786786bf-41ae-42e1-9c55-b72aa0089d14.png">
+
+
+https://github.com/alefragnani/vscode-bookmarks
+
+https://github.com/alefragnani/vscode-bookmarks/#bookmarks
+
+https://www.cnblogs.com/xgqfrms/p/11995693.html
+
+
 > VSCode & useful Extensions All In One 
 
 https://www.cnblogs.com/xgqfrms/p/12404892.html
