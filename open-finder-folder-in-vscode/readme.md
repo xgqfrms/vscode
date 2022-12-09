@@ -7,8 +7,15 @@
 https://www.cnblogs.com/xgqfrms/p/16810178.html#5132792
 
 
+## `Open Folder In VS Code Touch Bar.workflow`.zip
+
+https://github.com/xgqfrms/vscode/blob/master/open-finder-folder-in-vscode/Open%20Folder%20In%20VS%20Code%20Touch%20Bar.workflow.zip
+
+
 ## refs
 
 https://www.cnblogs.com/xgqfrms/p/16810178.html
+
+
 
 
