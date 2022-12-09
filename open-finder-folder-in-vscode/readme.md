@@ -25,6 +25,4 @@ https://github.com/xgqfrms/vscode/blob/master/open-finder-folder-in-vscode/Open%
 
 https://www.cnblogs.com/xgqfrms/p/16810178.html
 
-
-
-
+https://github.com/xgqfrms/vscode/tree/master/vscode-quick-action-workflow
