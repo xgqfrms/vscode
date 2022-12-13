@@ -1,0 +1,32 @@
+{
+  "PHP 8 Template": {
+    "prefix": "p8t",
+    "body": [
+      "<?php",
+      "",
+      "/**",
+      " * ",
+      " * @author xgqfrms",
+      " * @license MIT",
+      " * @copyright xgqfrms",
+      " * @created 2022-12-1$1",
+      " * @modified ",
+      " * ",
+      " * @description $2",
+      " * @link http://www.webhacker.com/$3.php",
+      " * ",
+      " */",
+      "",
+      "$args = $_GET[\"args\"];",
+      "// $params = $_POST[\"params\"];",
+      "// $all_in_one = $_REQUEST[\"args\"];",
+      "echo \"<h1 style=\"color: red;\">red color: $args</h1>\";",
+      "/*",
+      "",
+      "",
+      "*/",
+      ""
+    ],
+    "description": "PHP 8 Template & code snippets!"
+  }
+}
