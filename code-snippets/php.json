@@ -25,7 +25,8 @@
       "",
       "",
       "*/",
-      ""
+      "",
+      "?>"
     ],
     "description": "PHP 8 Template & code snippets!"
   }
