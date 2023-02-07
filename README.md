@@ -12,6 +12,87 @@ Ctrl + / === line Commnets
 
 ## VSCode Code Snippets
 
+> tst with dynamic testcases
+
+```json
+{
+  "TypeScript Template": {
+    "prefix": "tst",
+    "body": [
+      "\"use strict\";",
+      "",
+      "/**",
+      " * ",
+      " * @author xgqfrms",
+      " * @license MIT",
+      " * @copyright xgqfrms",
+      " * @created 2023-02-0$1",
+      " * @modified ",
+      " * ",
+      " * @description ",
+      " * @description ",
+      " * @difficulty Easy Medium Hard",
+      " * @ime_complexity O(n)",
+      " * @space_complexity O(n)",
+      " * @augments ",
+      " * @example ",
+      " * @link https://leetcode.com/problems/$2/",
+      " * @link https://leetcode.cn/problems/$2/",
+      " * @solutions ",
+      " * ",
+      " * @best_solutions ",
+      " * ",
+      " */",
+      "",
+      "export {};",
+      "",
+      "const log = console.log;",
+      "",
+      "// Generator",
+      "const $3 = ($5datas = [], debug = false) => {",
+      "  let result = ``;",
+      "  // do something...",
+      "  return $7result;",
+      "};",
+      "",
+      "",
+      "export default $3;",
+      "export {",
+      "  $3,",
+      "};",
+      "",
+      "/*",
+      "",
+      "",
+      "// 测试用例 test cases",
+      "const testCases = [",
+      "  {",
+      "    inputs: [],",
+      "    input: '4193 with words  ',",
+      "    result: 4193,",
+      "    desc: 'value equal to 4193',",
+      "  },",
+      "];",
+      "",
+      "for (const [i, testCase] of testCases.entries()) {",
+      "  const [first, second] = testCase.inputs;",
+      "  const result = $3(first, second);",
+      "  log(`test case \\${i} result: `, JSON.stringify(result) === JSON.stringify(testCase.result) ? `✅ passed` : `❌ failed`, result);",
+      "  const result = $3(testCase.input);",
+      "  log(`test case \\${i} result: `, result === testCase.result ? `✅ passed` : `❌ failed`, result);",
+      "  // log(`test case ${i} =`, testCase);",
+      "}",
+      "",
+      "// $ npx ts-node ./100\\ same-tree.ts",
+      "",
+      "*/",
+      "",
+    ],
+    "description": "TypeScript Template & code snippets!"
+  }
+}
+```
+
 > js6r with dynamic test cases
 
 ```json
@@ -525,6 +606,11 @@ Ctrl + / === line Commnets
 
 ## VSCode useful Extensions All In One 
 
+
+[VSCode useful Extensions All In One ](./plugins-extensions/readme.md)
+
+<!--
+
 [VSCode useful Extensions All In One ](./plugins-extensions/readme.md)
 
 [VSCode useful Extensions All In One ](./plugins-extensions#readme)
@@ -533,6 +619,7 @@ Ctrl + / === line Commnets
 
 
 https://github.com/xgqfrms/vscode/blob/master/
+-->
 
 ## refs
 
