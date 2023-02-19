@@ -12,7 +12,7 @@ Ctrl + / === line Commnets
 
 ## VSCode Code Snippets
 
-> tst with dynamic testcases
+> tst with dynamic testcases for leetcode
 
 ```json
 {
@@ -53,10 +53,8 @@ Ctrl + / === line Commnets
       "// ",
       "",
       "",
+      "",
       "/*",
-      "",
-      "",
-      "",
       "",
       "class TreeNode {",
       "  val: number;",
@@ -83,6 +81,7 @@ Ctrl + / === line Commnets
       "}",
       "*/",
       "",
+      "/*",
       "",
       "// 测试用例 test cases",
       "const testCases = [",
@@ -118,11 +117,13 @@ Ctrl + / === line Commnets
       "",
       "",
       "*/",
-      "",
+      ""
     ],
     "description": "TypeScript Template & code snippets!"
   }
 }
+
+
 ```
 
 > js6r with dynamic test cases
