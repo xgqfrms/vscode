@@ -36,10 +36,8 @@
       "// ",
       "",
       "",
+      "",
       "/*",
-      "",
-      "",
-      "",
       "",
       "class TreeNode {",
       "  val: number;",
@@ -66,6 +64,7 @@
       "}",
       "*/",
       "",
+      "/*",
       "",
       "// 测试用例 test cases",
       "const testCases = [",
@@ -101,7 +100,7 @@
       "",
       "",
       "*/",
-      "",
+      ""
     ],
     "description": "TypeScript Template & code snippets!"
   }
