@@ -1,0 +1,35 @@
+{
+    "CSS3 Template": {
+        "prefix": "c3t",
+        "body": [
+            "@charset \"UTf-8\";",
+            "",
+            "/* $1.css */\n",
+            ":root {",
+            "    --cololr: #fff;",
+            "    --default-cololr: #000;",
+            "    --new-cololr: #0f0;",
+            "}",
+            "",
+            "html{",
+            "    font-size: 62.5%;",
+            "    /* 10px = 1rem */",
+            "}",
+            "",
+            "* {",
+            "    box-sizing: border-box;",
+            "    -moz-box-sizing: border-box;",
+            "    -webkit-box-sizing: border-box;",
+            "}",
+            "",
+            "html, body, div, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, object, code, legend, button, input, textarea, th, td, a, img, video {",
+            "    margin: 0;",
+            "    padding: 0;",
+            "    border: 0;",
+            "    outline: 0;",
+            "}",
+            "",
+        ],
+        "description": "CSS3 Template & code snippets!"
+    }
+}
