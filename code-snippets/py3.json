@@ -3,10 +3,8 @@
     "prefix": "py3",
     "body": [
       "#!/usr/bin/env python3",
-      "#!/usr/bin/python3",
       "",
       "# coding: utf-8",
-      "# coding:=utf-8",
       "",
       "__author__ = 'xgqfrms'",
       "__editor__ = 'vscode'",
